@@ -24,7 +24,7 @@ h1 {
     margin: 0 auto;
 }
 
-.biografie {
+.inleiding {
     background-color: #ffffff;
     padding: 20px;
     border-radius: 5px;
@@ -32,7 +32,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.biografie h2 {
+.inleiding h2 {
     font-size: 24px;
     margin-bottom: 10px;
 }
@@ -68,4 +68,12 @@ h1 {
 .instrumenten h2 {
     font-size: 24px;
     margin-bottom: 10px;
+}
+
+.biografie {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
 }
